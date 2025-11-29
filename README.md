@@ -19,14 +19,16 @@ AI Recipe Assistant is a Flutter application that uses Google's GenUI framework 
 
 ### Screenshots
 
-```
-+------------------+     +------------------+
-|  AI Tarif        |     |  Recipe Card     |
-|  Asistani        |     |  Ingredients     |
-|                  |     |  Steps           |
-|  [Chat Input]    |     |  Serving Slider  |
-+------------------+     +------------------+
-```
+
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 34" src="https://github.com/user-attachments/assets/e58bd6ad-e5b4-4c6c-a552-70f670a27f26" />
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 28" src="https://github.com/user-attachments/assets/f5cb3fe5-de3b-4bee-bfd8-83e1c0e83697" />
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 23" src="https://github.com/user-attachments/assets/527d3ad3-5b1c-48bf-ae4a-a119d4623650" />
+
+
+
+https://github.com/user-attachments/assets/023b0b02-84ec-4bcb-82fb-f896e3442d1b
+
+
 
 ### Tech Stack
 
@@ -125,14 +127,11 @@ AI Tarif Asistani, Google'in GenUI framework'unu kullanarak dinamik, yapay zeka 
 
 ### Ekran Goruntuleri
 
-```
-+------------------+     +------------------+
-|  AI Tarif        |     |  Tarif Karti     |
-|  Asistani        |     |  Malzemeler      |
-|                  |     |  Adimlar         |
-|  [Mesaj Gir]     |     |  Porsiyon Ayari  |
-+------------------+     +------------------+
-```
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 34" src="https://github.com/user-attachments/assets/e58bd6ad-e5b4-4c6c-a552-70f670a27f26" />
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 28" src="https://github.com/user-attachments/assets/f5cb3fe5-de3b-4bee-bfd8-83e1c0e83697" />
+<img width="400" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-29 at 13 40 23" src="https://github.com/user-attachments/assets/527d3ad3-5b1c-48bf-ae4a-a119d4623650" />
+
+https://github.com/user-attachments/assets/023b0b02-84ec-4bcb-82fb-f896e3442d1b
 
 ### Teknoloji Yigini
 
