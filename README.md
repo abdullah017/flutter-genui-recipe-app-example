@@ -1,4 +1,4 @@
-# AI Recipe Assistant / AI Tarif Asistani
+# Flutter GENUI AI Recipe Assistant / AI Tarif Asistani
 
 [English](#english) | [Turkce](#turkce)
 
